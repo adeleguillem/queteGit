@@ -1,2 +1,2 @@
-# queteGit
+LOCAL
 Modification 1
